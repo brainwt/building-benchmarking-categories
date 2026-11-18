@@ -146,7 +146,8 @@ df = df.merge(bcat[["FLR_MAIN_PURPS_CD", "LV2_B_PURPS_CD2",
 ## 9. 관련 참고문헌
 
 - 한국건설기술연구원 (2020). 공공건축물 에너지 소비량 보고 안정화 및 평가체계 사용기반 마련. 국토안전관리원 수탁용역, KICT 2020-052.
-- 김혜기 외 (2023). 준비 중.
+- 김혜기, 추한경, 김덕우 (2026). 공공건축물 에너지 성능개선 대상 선별관리를 위한 지역·용도별 평가지표 기준값 도출. *한국건축친환경설비학회 논문집*, 20(1), 11–28. [KCI](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003306106)
+  - (영문) Development of Assessment Indicators for Selecting Public Buildings for Energy Performance Improvement: Derivation of Benchmarks and Explanatory Indicators
 
 ---
 
