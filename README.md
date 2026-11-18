@@ -167,7 +167,7 @@ Research was conducted under the KICT Research Program (project no. 20220260-001
 This work is supported by the Korea Agency for Infrastructure Technology Advancement(KAIA) grant funded by the Ministry of Land, Infrastructure and Transport (Grant RS-2023-00244769, Development of a data framework for integrating building energy datasets and applications to accelerate carbon neutrality in the building sector).
 
 ## Copyright
-BE-sig : Building Energy signature Toolkit Copyright (c) 2023 Korea Institute of Civil Engineering and Building Technology, KICT (subject to receipt of any required approvals from South Korea Ministry of Land, Infrastructure and Transport, MOLIT). All rights reserved.
+B-Cat : Building energy Benchmarking Categories in South Korea Copyright (c) 2023 Korea Institute of Civil Engineering and Building Technology, KICT (subject to receipt of any required approvals from South Korea Ministry of Land, Infrastructure and Transport, MOLIT). All rights reserved.
 
 If you have questions about your rights to use or distribute this code, please contact KICT at [deukwookim@kict.re.kr](mailto:deukwookim@kict.re.kr).
 
